@@ -1,10 +1,10 @@
-# Hinman Pikchr
+# My Homebrew Formulas
 
 ## How do I install these formulae?
 
-`brew install hinman/pikchr/<formula>`
+`brew install hinman/hinman/<formula>`
 
-Or `brew tap hinman/pikchr` and then `brew install <formula>`.
+Or `brew tap hinman/hinman` and then `brew install <formula>`.
 
 ## Documentation
 
